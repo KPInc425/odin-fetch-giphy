@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.content {
+    width: 600px;
+    height: 600px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.inputControls {
+    margin-top: 10px;
+}
+
+img {
+    width: fit-content;
+    height: auto;
+    object-fit: fill;
+}
+
+.testing {
+    color: white;
+}
