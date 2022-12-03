@@ -114,10 +114,3 @@ input:focus {
     }
     
 }
-
-@media screen and (max-height: 800px) {
-    .content {
-        margin: 0;
-    }
-    
-}
