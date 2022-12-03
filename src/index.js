@@ -1,3 +1,4 @@
+import './reset.css';
 import './style.css';
 
 const img = document.querySelector('img');
